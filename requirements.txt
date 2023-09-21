@@ -91,7 +91,7 @@ jupyter_server_ydoc==0.8.0
 jupyterlab==3.6.3
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.22.1
-keras==2.13.1
+keras==2.11.0
 kiwisolver==1.4.4
 libclang==16.0.0
 lxml==4.6.3
